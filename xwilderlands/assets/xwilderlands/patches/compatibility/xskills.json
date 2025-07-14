@@ -1,0 +1,546 @@
+[
+	{
+		"file": "wrustbound:entities/land/rustbound/rustborn.json",
+		"op": "addmerge",
+		"path": "/client/behaviors/-",
+		"value": {
+			"code": "XSkillsEntity",
+			"xpByType": {
+				"*-tier1": 1.0,
+				"*-tier2": 1.5,
+				"*-tier3": 2.0,
+				"*-tier4": 2.5,
+				"*-tier5": 3.0,
+				"*-tier6": 3.5,
+				"*-tier7": 4.0,
+				"*-tier8": 4.5,
+				"*-tier9": 5.0
+			}
+		}
+	},
+	{
+		"file": "wrustbound:entities/land/rustbound/rustborn.json",
+		"op": "addmerge",
+		"path": "/server/behaviors/-",
+		"value": {
+			"code": "XSkillsEntity",
+			"xpByType": {
+				"*-tier1": 1.0,
+				"*-tier2": 1.5,
+				"*-tier3": 2.0,
+				"*-tier4": 2.5,
+				"*-tier5": 3.0,
+				"*-tier6": 3.5,
+				"*-tier7": 4.0,
+				"*-tier8": 4.5,
+				"*-tier9": 5.0
+			}
+		}
+	},
+	{
+		"file": "wrustbound:entities/land/rustbound/shepherd.json",
+		"op": "addmerge",
+		"path": "/client/behaviors/-",
+		"value": {
+			"code": "XSkillsEntity",
+			"xpByType": {
+				"*-double_horned": 6.0,
+				"*-abomination": 7.0,
+				"*-swordbearer": 7.0
+			}
+		}
+	},
+	{
+		"file": "wrustbound:entities/land/rustbound/shepherd.json",
+		"op": "addmerge",
+		"path": "/server/behaviors/-",
+		"value": {
+			"code": "XSkillsEntity",
+			"xpByType": {
+				"*-double_horned": 6.0,
+				"*-abomination": 7.0,
+				"*-swordbearer": 7.0
+			}
+		}
+	},
+	{
+		"file": "wrustbound:entities/land/rustbound/skulker.json",
+		"op": "addmerge",
+		"path": "/client/behaviors/-",
+		"value": {
+			"code": "XSkillsEntity",
+			"xpByType": {
+				"*-young": 0.5,
+				"*-adolescent": 0.75,
+				"*-mature": 1.0
+			}
+		}
+	},
+	{
+		"file": "wrustbound:entities/land/rustbound/skulker.json",
+		"op": "addmerge",
+		"path": "/server/behaviors/-",
+		"value": {
+			"code": "XSkillsEntity",
+			"xpByType": {
+				"*-young": 0.5,
+				"*-adolescent": 0.75,
+				"*-mature": 1.0
+			}
+		}
+	},
+	{
+		"file": "wrustbound:entities/land/rustbound/bellskulker.json",
+		"op": "addmerge",
+		"path": "/client/behaviors/-",
+		"value": {
+			"code": "XSkillsEntity",
+			"xp": 1.5
+		}
+	},
+	{
+		"file": "wrustbound:entities/land/rustbound/bellskulker.json",
+		"op": "addmerge",
+		"path": "/server/behaviors/-",
+		"value": {
+			"code": "XSkillsEntity",
+			"xp": 1.5
+		}
+	},
+	{
+		"file": "wrustbound:entities/land/rustbound/blightworm.json",
+		"op": "addmerge",
+		"path": "/client/behaviors/-",
+		"value": {
+			"code": "XSkillsEntity",
+			"xpByType": {
+				"*-adolescent": 1.0,
+				"*-mature": 1.5
+			}
+		}
+	},
+	{
+		"file": "wrustbound:entities/land/rustbound/blightworm.json",
+		"op": "addmerge",
+		"path": "/server/behaviors/-",
+		"value": {
+			"code": "XSkillsEntity",
+			"xpByType": {
+				"*-adolescent": 1.0,
+				"*-mature": 1.5
+			}
+		}
+	},
+	{
+		"file": "wrustbound:entities/land/rustbound/bugnest.json",
+		"op": "addmerge",
+		"path": "/client/behaviors/-",
+		"value": {
+			"code": "XSkillsEntity",
+			"xpByType": {
+				"*-skulker": 4.5,
+				"*-banefly": 4.0
+			}
+		}
+	},
+	{
+		"file": "wrustbound:entities/land/rustbound/bugnest.json",
+		"op": "addmerge",
+		"path": "/server/behaviors/-",
+		"value": {
+			"code": "XSkillsEntity",
+			"xpByType": {
+				"*-skulker": 4.5,
+				"*-banefly": 4.0
+			}
+		}
+	},
+	{
+		"file": "wrustbound:entities/land/rustbound/bellspire/bellspire_emerging.json",
+		"op": "addmerge",
+		"path": "/client/behaviors/-",
+		"value": {
+			"code": "XSkillsEntity",
+			"xp": 7.0
+		}
+	},
+	{
+		"file": "wrustbound:entities/land/rustbound/bellspire/bellspire_emerging.json",
+		"op": "addmerge",
+		"path": "/server/behaviors/-",
+		"value": {
+			"code": "XSkillsEntity",
+			"xp": 7.0
+		}
+	},
+	{
+		"file": "wrustbound:entities/land/rustbound/bellspire/bellspire_middling_type1.json",
+		"op": "addmerge",
+		"path": "/client/behaviors/-",
+		"value": {
+			"code": "XSkillsEntity",
+			"xp": 10.0
+		}
+	},
+	{
+		"file": "wrustbound:entities/land/rustbound/bellspire/bellspire_middling_type1.json",
+		"op": "addmerge",
+		"path": "/server/behaviors/-",
+		"value": {
+			"code": "XSkillsEntity",
+			"xp": 10.0
+		}
+	},
+	{
+		"file": "wrustbound:entities/land/rustbound/bellspire/bellspire_middling_type2.json",
+		"op": "addmerge",
+		"path": "/client/behaviors/-",
+		"value": {
+			"code": "XSkillsEntity",
+			"xp": 10.0
+		}
+	},
+	{
+		"file": "wrustbound:entities/land/rustbound/bellspire/bellspire_middling_type2.json",
+		"op": "addmerge",
+		"path": "/server/behaviors/-",
+		"value": {
+			"code": "XSkillsEntity",
+			"xp": 10.0
+		}
+	},
+	{
+		"file": "wrustbound:entities/land/rustbound/bellspire/bellspire_middling_type3.json",
+		"op": "addmerge",
+		"path": "/client/behaviors/-",
+		"value": {
+			"code": "XSkillsEntity",
+			"xp": 10.0
+		}
+	},
+	{
+		"file": "wrustbound:entities/land/rustbound/bellspire/bellspire_middling_type3.json",
+		"op": "addmerge",
+		"path": "/server/behaviors/-",
+		"value": {
+			"code": "XSkillsEntity",
+			"xp": 10.0
+		}
+	},
+	{
+		"file": "wrustbound:entities/land/rustbound/bellspire/bellspire_mature_type1.json",
+		"op": "addmerge",
+		"path": "/client/behaviors/-",
+		"value": {
+			"code": "XSkillsEntity",
+			"xp": 13.0
+		}
+	},
+	{
+		"file": "wrustbound:entities/land/rustbound/bellspire/bellspire_mature_type1.json",
+		"op": "addmerge",
+		"path": "/server/behaviors/-",
+		"value": {
+			"code": "XSkillsEntity",
+			"xp": 13.0
+		}
+	},
+	{
+		"file": "wrustbound:entities/land/rustbound/bellspire/bellspire_mature_type2.json",
+		"op": "addmerge",
+		"path": "/client/behaviors/-",
+		"value": {
+			"code": "XSkillsEntity",
+			"xp": 13.0
+		}
+	},
+	{
+		"file": "wrustbound:entities/land/rustbound/bellspire/bellspire_mature_type2.json",
+		"op": "addmerge",
+		"path": "/server/behaviors/-",
+		"value": {
+			"code": "XSkillsEntity",
+			"xp": 13.0
+		}
+	},
+	{
+		"file": "wrustbound:entities/land/rustbound/bellspire/bellspire_mature_type3.json",
+		"op": "addmerge",
+		"path": "/client/behaviors/-",
+		"value": {
+			"code": "XSkillsEntity",
+			"xp": 13.0
+		}
+	},
+	{
+		"file": "wrustbound:entities/land/rustbound/bellspire/bellspire_mature_type3.json",
+		"op": "addmerge",
+		"path": "/server/behaviors/-",
+		"value": {
+			"code": "XSkillsEntity",
+			"xp": 13.0
+		}
+	},
+	{
+		"file": "wrustbound:entities/land/rustbound/bellspire/bellspire_aged_type1.json",
+		"op": "addmerge",
+		"path": "/client/behaviors/-",
+		"value": {
+			"code": "XSkillsEntity",
+			"xp": 16.0
+		}
+	},
+	{
+		"file": "wrustbound:entities/land/rustbound/bellspire/bellspire_aged_type1.json",
+		"op": "addmerge",
+		"path": "/server/behaviors/-",
+		"value": {
+			"code": "XSkillsEntity",
+			"xp": 16.0
+		}
+	},
+	{
+		"file": "wrustbound:entities/land/rustbound/bellspire/bellspire_aged_type2.json",
+		"op": "addmerge",
+		"path": "/client/behaviors/-",
+		"value": {
+			"code": "XSkillsEntity",
+			"xp": 16.0
+		}
+	},
+	{
+		"file": "wrustbound:entities/land/rustbound/bellspire/bellspire_aged_type2.json",
+		"op": "addmerge",
+		"path": "/server/behaviors/-",
+		"value": {
+			"code": "XSkillsEntity",
+			"xp": 16.0
+		}
+	},
+	{
+		"file": "wrustbound:entities/land/rustbound/bellspire/bellspire_aged_type3.json",
+		"op": "addmerge",
+		"path": "/client/behaviors/-",
+		"value": {
+			"code": "XSkillsEntity",
+			"xp": 16.0
+		}
+	},
+	{
+		"file": "wrustbound:entities/land/rustbound/bellspire/bellspire_aged_type3.json",
+		"op": "addmerge",
+		"path": "/server/behaviors/-",
+		"value": {
+			"code": "XSkillsEntity",
+			"xp": 16.0
+		}
+	},
+	{
+		"file": "wrustbound:entities/land/rustbound/caretaker.json",
+		"op": "addmerge",
+		"path": "/client/behaviors/-",
+		"value": {
+			"code": "XSkillsEntity",
+			"xpByType": {
+				"*-spikehorned": 5.0,
+				"*-deerhorned": 5.5,
+				"*-ramhorned": 6.0
+			}
+		}
+	},
+	{
+		"file": "wrustbound:entities/land/rustbound/caretaker.json",
+		"op": "addmerge",
+		"path": "/server/behaviors/-",
+		"value": {
+			"code": "XSkillsEntity",
+			"xpByType": {
+				"*-spikehorned": 5.0,
+				"*-deerhorned": 5.5,
+				"*-ramhorned": 6.0
+			}
+		}
+	},
+	{
+		"file": "wrustbound:entities/land/rotten/wbonemass.json",
+		"op": "addmerge",
+		"path": "/client/behaviors/-",
+		"value": {
+			"code": "XSkillsEntity",
+			"xp": 10.0
+		}
+	},
+	{
+		"file": "wrustbound:entities/land/rotten/wbonemass.json",
+		"op": "addmerge",
+		"path": "/server/behaviors/-",
+		"value": {
+			"code": "XSkillsEntity",
+			"xp": 10.0
+		}
+	},
+	{
+		"file": "wrustbound:entities/land/rotten/wrotwalker.json",
+		"op": "addmerge",
+		"path": "/client/behaviors/-",
+		"value": {
+			"code": "XSkillsEntity",
+			"xpByType": {
+				"*-normal": 0.5,
+				"*-deep": 0.8,
+				"*-blackguard": 2.5
+			}
+		}
+	},
+	{
+		"file": "wrustbound:entities/land/rotten/wrotwalker.json",
+		"op": "addmerge",
+		"path": "/server/behaviors/-",
+		"value": {
+			"code": "XSkillsEntity",
+			"xpByType": {
+				"*-normal": 0.5,
+				"*-deep": 0.8,
+				"*-blackguard": 2.5
+			}
+		}
+	},
+	{
+		"file": "wrustbound:entities/land/rotten/wrotpillar.json",
+		"op": "addmerge",
+		"path": "/server/behaviors/-",
+		"value": {
+			"code": "XSkillsEntity",
+			"xp": 1.5
+		}
+	},
+	{
+		"file": "wrustbound:entities/land/rotten/wrotpillar.json",
+		"op": "addmerge",
+		"path": "/client/behaviors/-",
+		"value": {
+			"code": "XSkillsEntity",
+			"xp": 1.5
+		}
+	},
+	{
+		"file": "wrustbound:entities/land/rust/wgolem.json",
+		"op": "addmerge",
+		"path": "/client/behaviors/-",
+		"value": {
+			"code": "XSkillsEntity",
+			"xpByType": {
+				"*-normal": 0.5
+			}
+		}
+	},
+	{
+		"file": "wrustbound:entities/land/rust/wgolem.json",
+		"op": "addmerge",
+		"path": "/server/behaviors/-",
+		"value": {
+			"code": "XSkillsEntity",
+			"xpByType": {
+				"*-normal": 0.5
+			}
+		}
+	},
+	{
+		"file": "wrustbound:entities/land/rust/witinerant.json",
+		"op": "addmerge",
+		"path": "/client/behaviors/-",
+		"value": {
+			"code": "XSkillsEntity",
+			"xpByType": {
+				"*-normal": 2.0
+			}
+		}
+	},
+	{
+		"file": "wrustbound:entities/land/rust/witinerant.json",
+		"op": "addmerge",
+		"path": "/server/behaviors/-",
+		"value": {
+			"code": "XSkillsEntity",
+			"xpByType": {
+				"*-normal": 2.0
+			}
+		}
+	},
+	{
+		"file": "wrustbound:entities/land/rust/wroamer.json",
+		"op": "addmerge",
+		"path": "/client/behaviors/-",
+		"value": {
+			"code": "XSkillsEntity",
+			"xpByType": {
+				"*-normal": 5.0
+			}
+		}
+	},
+	{
+		"file": "wrustbound:entities/land/rust/wroamer.json",
+		"op": "addmerge",
+		"path": "/server/behaviors/-",
+		"value": {
+			"code": "XSkillsEntity",
+			"xpByType": {
+				"*-normal": 5.0
+			}
+		}
+	},
+	{
+		"file": "wrustbound:entities/land/rust/wboiler2.json",
+		"op": "addmerge",
+		"path": "/client/behaviors/-",
+		"value": {
+			"code": "XSkillsEntity",
+			"xp": 10
+		}
+	},
+	{
+		"file": "wrustbound:entities/land/rust/wboiler2.json",
+		"op": "addmerge",
+		"path": "/server/behaviors/-",
+		"value": {
+			"code": "XSkillsEntity",
+			"xp": 10
+		}
+	},
+	{
+		"file": "wrustbound:entities/air/banefly.json",
+		"op": "addmerge",
+		"path": "/client/behaviors/-",
+		"value": {
+			"code": "XSkillsEntity",
+			"xp": 1.5
+		}
+	},
+	{
+		"file": "wrustbound:entities/air/banefly.json",
+		"op": "addmerge",
+		"path": "/server/behaviors/-",
+		"value": {
+			"code": "XSkillsEntity",
+			"xp": 1.5
+		}
+	},
+	{
+		"file": "wrustbound:entities/air/wparasitic_flies.json",
+		"op": "addmerge",
+		"path": "/client/behaviors/-",
+		"value": {
+			"code": "XSkillsEntity",
+			"xp": 2.0
+		}
+	},
+	{
+		"file": "wrustbound:entities/air/wparasitic_flies.json",
+		"op": "addmerge",
+		"path": "/server/behaviors/-",
+		"value": {
+			"code": "XSkillsEntity",
+			"xp": 2.0
+		}
+	}
+]

@@ -1,0 +1,15 @@
+{
+	"type": "content",
+	"modid": "xwilderlands",
+	"name": "Wilderlands Rustbound / XSkills",
+	"side": "universal",
+	"requiredOnClient": true,
+	"requiredOnServer": true,
+	"description" : "Gain XSkills combat XP from killing Wilderlands Rustbound mobs",
+	"authors": ["Faeldray"],
+	"version": "1.0.0",
+	"dependencies": {
+		"wrustbound": "1.0.0",
+		"xskills": "0.8.19"
+	}
+}
