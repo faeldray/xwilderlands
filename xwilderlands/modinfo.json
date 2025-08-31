@@ -5,7 +5,7 @@
 	"side": "universal",
 	"requiredOnClient": true,
 	"requiredOnServer": true,
-	"description" : "Better drifter hit boxes, Xskills compat, Cats compat",
+	"description" : "Better drifter hit boxes, XSkills compat, Cats compat",
 	"authors": ["Faeldray"],
 	"version": "2.0.0",
 	"dependencies": {

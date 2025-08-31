@@ -23,7 +23,8 @@
 			"animationSpeed": 1.0,
 			"animation": "enchant"
 		},
-		"file": "wrustbound:entities/land/rustbound/rustborn.json"
+		"file": "wrustbound:entities/land/rustbound/rustborn.json",
+		"dependsOn": [ { "modid": "cats" } ]
 	},
 	{
 		"op": "addmerge",
@@ -34,7 +35,8 @@
 			"blendMode": "Average",
 			"animationSpeed": 2
 		},
-		"file": "wrustbound:entities/land/rustbound/rustborn.json"
+		"file": "wrustbound:entities/land/rustbound/rustborn.json",
+		"dependsOn": [ { "modid": "cats" } ]
 	},
 	{
 		"op": "remove",
